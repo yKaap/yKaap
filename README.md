@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yKaap and i have 14 yo 
-- 🌱 I’m currently learning python, C++ and other language
+- 👋 Hi, I’m @yKaap and i have 16 yo 
+- 🌱 I’m currently learning C, C++ at ITI R.Elia
 - 📫 How to reach me? On Discord: _pakko.
 
 <!---
